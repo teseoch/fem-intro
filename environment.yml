@@ -4,5 +4,6 @@ dependencies:
   - numpy
   - scipy
   - plotly
+  - pip
   - pip:
     - quadpy==0.13.0
